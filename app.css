@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right,rgb(62, 113, 207),rgb(51, 63, 85));
+    
+}
+
+.form-row{
+    padding: 30px;
+    
+}
+
+.collection{
+    margin: 12px;
+    
+}
+
+.card-action{
+    margin: 12px;
+    padding-bottom:5rem;
+}
+
+.container{
+    margin-top: 6rem;
+    
+}
+
+.z{
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    
+}
+
+.hard{
+    margin: 1em 0 0.5em 0;
+	color: #f8f7f7;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px rgb(22, 20, 20), 0 3px #777;
+}
+
+.Clear_button{
+    border-bottom-right-radius: 0.9rem;
+    margin-right: 2rem;
+}
